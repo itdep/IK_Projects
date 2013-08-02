@@ -942,7 +942,7 @@ box-shadow: 0px 8px 9px #888;
 	.breadcrumb{
 		font-weight:normal; 
 		color:#999999;
-		font-size:11px;
+		font-size:13px;
 		clear:both; 
 		float:left;
 		position:relative; 
@@ -951,7 +951,7 @@ box-shadow: 0px 8px 9px #888;
 		margin:4px 0 0;  
 		line-height:100%; 
 		padding-top:6px;
-		font-family:helvetica,arial,sans;
+		font-family:droid sans;
 	}
 	
 	.breadcrumb a{
@@ -3316,7 +3316,7 @@ box-shadow: 0px 8px 9px #888;
 		margin: 0;
 		font-size:16px;
 		line-height: 22px;
-		font-family: "Times New Roman", serif;
+		font-family: Droid Sans;
 		font-weight:normal;
 		margin: 15px 0 0 0;
 	} 
@@ -3353,12 +3353,13 @@ box-shadow: 0px 8px 9px #888;
 		width: 30px;
 	}
 
-	blockquote.testimonial p span.author{		
-		font-size: 12px;
-		font-style: italic;  
-		color: #9E9E9E;
-		padding-left: 1px;
-		padding-top: 5px;
+	blockquote.testimonial p span.author{
+	font-size: 13px;
+	font-style: italic;
+	color: #6a2b8e;
+	padding-left: 1px;
+	padding-top: 5px;
+	font-weight: bold;
 	} 
 
 	/* dropcaps */    
