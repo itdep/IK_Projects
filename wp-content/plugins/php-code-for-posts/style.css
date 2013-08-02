@@ -1,0 +1,28 @@
+/*
+    Document   : style.css
+    Author     : The Hidden Code
+    Description: Styles for the administation menu
+*/
+
+p.formlabel{
+	cursor:default;
+	font-size: 14px;
+	line-height: 20px;
+}
+p.formlabel input{
+	cursor:pointer;
+}
+input[type=checkbox].mr22{
+	margin-right:22px;
+}
+.clearall{
+	clear:both;
+}
+table.form-table{
+	width:80%;
+}
+.field-code{
+	font-family:monospace;
+	font-size:12px;
+	white-space:pre;
+}
