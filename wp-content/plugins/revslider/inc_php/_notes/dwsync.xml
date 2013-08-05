@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="base.class.php" server="10.1.10.46:22" local="130184586111796000" remote="130201796400000000" />
+<file name="base_admin.class.php" server="10.1.10.46:22" local="130184586111886000" remote="130201796400000000" />
+<file name="base_front.class.php" server="10.1.10.46:22" local="130184586111906000" remote="130201796400000000" />
+<file name="cssparser.class.php" server="10.1.10.46:22" local="130184586111916000" remote="130201796400000000" />
+<file name="db.class.php" server="10.1.10.46:22" local="130184586111976000" remote="130201796400000000" />
+<file name="elements_base.class.php" server="10.1.10.46:22" local="130184586111996000" remote="130201796400000000" />
+<file name="functions.class.php" server="10.1.10.46:22" local="130184586112106000" remote="130201796400000000" />
+<file name="functions.php" server="10.1.10.46:22" local="130184586112126000" remote="130201796400000000" />
+<file name="functions_wordpress.class.php" server="10.1.10.46:22" local="130184586112136000" remote="130201796400000000" />
+<file name="image_view.class.php" server="10.1.10.46:22" local="130184586112256000" remote="130201796400000000" />
+<file name="include_framework.php" server="10.1.10.46:22" local="130184586112416000" remote="130201796400000000" />
+<file name="revslider_globals.class.php" server="10.1.10.46:22" local="130184586112426000" remote="130201796400000000" />
+<file name="revslider_operations.class.php" server="10.1.10.46:22" local="130184586112446000" remote="130201796400000000" />
+<file name="revslider_output.class.php" server="10.1.10.46:22" local="130184586112746000" remote="130201796400000000" />
+<file name="revslider_settings_product.class.php" server="10.1.10.46:22" local="130184586112866000" remote="130201796400000000" />
+<file name="revslider_slide.class.php" server="10.1.10.46:22" local="130184586112956000" remote="130201796400000000" />
+<file name="revslider_slider.class.php" server="10.1.10.46:22" local="130184586113086000" remote="130201796400000000" />
+<file name="revslider_widget.class.php" server="10.1.10.46:22" local="130184586113106000" remote="130201796400000000" />
+<file name="settings.class.php" server="10.1.10.46:22" local="130184586113236000" remote="130201796400000000" />
+<file name="settings_advances.class.php" server="10.1.10.46:22" local="130184586113256000" remote="130201796400000000" />
+<file name="settings_output.class.php" server="10.1.10.46:22" local="130184586113346000" remote="130201796400000000" />
+<file name="settings_product.class.php" server="10.1.10.46:22" local="130184586113576000" remote="130201796400000000" />
+<file name="settings_product_sidebar.class.php" server="10.1.10.46:22" local="130184586113826000" remote="130201796400000000" />
+<file name="zip.class.php" server="10.1.10.46:22" local="130184586113846000" remote="130201796400000000" />
+</dwsync>
